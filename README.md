@@ -7,4 +7,7 @@ This app is a basic currency checker app that I created in Swift for iOS.  The a
   
   To allow the app to connect
   
-  ![](https://github.com/lblake/currency-checker/blob/master/CurrencyChecker/Assets.xcassets/currency-checker.imageset/currency-checker.png)
+
+<p align="center">
+  <img width="320" height="720" src="https://github.com/lblake/currency-checker/blob/master/CurrencyChecker/Assets.xcassets/currency-checker.imageset/currency-checker.png">
+</p>
